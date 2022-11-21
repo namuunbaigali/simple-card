@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "bootstrap",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootstrap"
+	}
+}
